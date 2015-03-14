@@ -8,20 +8,6 @@ layout: default
 <div class="post">
   {{ content }}
 </div>
-<!-- Post prev/next navigation. After the content of the post, add previous and next navigation with doubled left and right angle quotes to indicate direction. In addition, if it's the first or last blog post, make sure nothing goes pear-shaped with the navigation. -->
-<nav id="pagination">
-  {% if paginator.previous_page %}
-    {% if paginator.previous_page == 1 %}
-    <a href="/" title="Previous Page">&laquo; Previous</a>
-    {% else %}
-    <a href="/page{{ paginator.previous_page }}/" title="Previous Page">&laquo; Previous</a>
-    {% endif %}
-  {% endif %}
-
-  {% if paginator.next_page %}
-    <a href="/page{{ paginator.next_page }}/" title="Next Page">Next &raquo;</a>
-  {% endif %}
-</nav>
 <!-- Post comments. Add the disqus information so people can sound off. -->
 <div class="postcomments">
 	{% include disqus.html %}
