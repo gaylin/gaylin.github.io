@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<!-- Post title and date info. Format the title of the blog post with this element. On a new line after the title, start the blog post with the publication date, in long form. -->
+<!-- Post title and date info -->
 <h1>{{ page.title }}</h1>
 <p class="meta">{{ page.date | date_to_long_string }}</p>
-<!-- Post contents. Don't do anything fancy to the content for now. Just make sure it appears after the title and the date. -->
+<!-- Post contents -->
 <div class="post">
   {{ content }}
 </div>
-<!-- Post comments. Add the disqus information so people can sound off. -->
+<!-- Post comments -->
 <div class="postcomments">
 	{% include disqus.html %}
 </div>
