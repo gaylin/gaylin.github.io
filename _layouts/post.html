@@ -1,6 +1,17 @@
 ---
 layout: default
 ---
+<!-- Post prev/next buttons -->
+{% if page.previous %}
+<div align="center">
+   <b><a rel="prev" href="{{ page.previous.url }}">&laquo; {{ page.previous.title }} &there4;</a></b>
+   <br></br>
+ </div>
+ {% endif %}
+ <a href="http://gaylin.github.io/blog/">Graphological Legerdemain</a>
+ {% if page.next %}
+   <a rel="next" href="{{ page.next.url }}">&there4; {{ page.next.title }} &raquo;</a>
+ {% endif %}
 <!-- Post title and date info -->
 <h1>{{ page.title }}</h1>
 <p class="meta">{{ page.date | date_to_long_string }}</p>
@@ -8,14 +19,6 @@ layout: default
 <div class="post">
   {{ content }}
 </div>
-<!-- Post prev/next buttons -->
-{% if page.previous %}
-   <a rel="prev" href="{{ page.previous.url }}">&laquo; {{ page.previous.title }} &there4;</a>
- {% endif %}
- <a href="http://gaylin.github.io/blog/">Graphological Legerdemain</a>
- {% if page.next %}
-   <a rel="next" href="{{ page.next.url }}">&there4; {{ page.next.title }} &raquo;</a>
- {% endif %}
 <!-- Post comments -->
 <div class="postcomments">
 	{% include disqus.html %}
