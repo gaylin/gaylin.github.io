@@ -2,9 +2,10 @@
 layout: post
 title: "And so it begins"
 date: 2015-03-01
+excerpt_separator: <!--more-->
 ---
 
-I'm not old. I certainly don't feel it. But the simple fact is that the majority of my cow-orkers[1] were born after MrMr[2] and I tied the knot. I try not to point it out but I'm at that age where I can't help but think "Oh for fuck's sake. What do you mean you don't know who \<insert 80s band name\> is?". I've been in this career path for longer.
+I'm not old. I certainly don't feel it. But the simple fact is that the majority of my cow-orkers[1] were born after MrMr[2] and I tied the knot. I try not to point it out but I'm at that age where I can't help but think "Oh for fuck's sake. What do you mean you don't know who \<insert 80s band name\> is?". <!--more-->I've been in this career path for longer.
 
 So, per my "Hello World" commit on the home page (at least until I rip that puppy off there for something more festive and beeyooteous), I'm doing this because:
 
