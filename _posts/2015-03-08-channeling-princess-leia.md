@@ -2,10 +2,9 @@
 layout: post
 title: "Channeling Princess Leia"
 date: 2015-03-08
-excerpt_separator: <!--more-->
 ---
 
-MrMr wonders sometimes, I'm sure, why I get up before dawn. For a long time it was simply that I hated driving in rush-hour traffic so much that going in to work early was the only way to keep my sanity. <!--more-->At this point, now that I work exclusively out of my home office, I really have no other excuse than habit.[1] Even on the weekends, which probably bakes his noodle more than any other time.[2]
+MrMr wonders sometimes, I'm sure, why I get up before dawn. For a long time it was simply that I hated driving in rush-hour traffic so much that going in to work early was the only way to keep my sanity. At this point, now that I work exclusively out of my home office, I really have no other excuse than habit.[1] Even on the weekends, which probably bakes his noodle more than any other time.[2]
 
 So here I sit on a Sunday morning, awake at the blindingly late hour of 9am[3] and I have to make a confession: I suck at this code manipulation thing worse than I thought. But I've figured out why.
 
