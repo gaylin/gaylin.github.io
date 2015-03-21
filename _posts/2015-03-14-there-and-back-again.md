@@ -2,7 +2,6 @@
 layout: post
 title: "Because Mr. Eco was right"
 date: 2015-03-14
-excerpt: Wherein I confess why I realize I need to use a cheat sheet...
 ---
 
 This week seems to be my week for coding mistakes (in as much as I can call it coding, that is[1]). I am still relying a great deal too much on the viewing format of something and not enough on what the code is telling me about how something will look.
