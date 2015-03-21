@@ -2,6 +2,7 @@
 layout: post
 title: "Channeling Princess Leia"
 date: 2015-03-08
+excerpt: Wherein I confess why I don't want to burden my cow-orkers...
 ---
 
 MrMr wonders sometimes, I'm sure, why I get up before dawn. For a long time it was simply that I hated driving in rush-hour traffic so much that going in to work early was the only way to keep my sanity. At this point, now that I work exclusively out of my home office, I really have no other excuse than habit.[1] Even on the weekends, which probably bakes his noodle more than any other time.[2]
