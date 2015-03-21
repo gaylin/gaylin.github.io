@@ -4,7 +4,7 @@ title: "Because Mr. Eco was right"
 date: 2015-03-14
 ---
 
-This week seems to be my week for coding mistakes (in as much as I can call it coding, that is[1]). <!--more-->I am still relying a great deal too much on the viewing format of something and not enough on what the code is telling me about how something will look.
+This week seems to be my week for coding mistakes (in as much as I can call it coding, that is[1]). I am still relying a great deal too much on the viewing format of something and not enough on what the code is telling me about how something will look.<!--more-->
 
 I sat down this week and work and renamed in excess of 200 image files to a more consistent format. Sadly it wasn't a case where I could beg one of my awesome cow-orkers to wave a magic scripting wand. The files really did require human eyes to look at the content of the image and say "Well obviously 'screenshot01.png' isn't going to cut it here." We were aiming for a loose BEM-style naming scheme[2].
 
