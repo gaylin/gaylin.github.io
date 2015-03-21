@@ -2,3 +2,4 @@ name: Graphological Legerdemain
 markdown: redcarpet
 permalink: /blog/:year/:month/:day/:title
 timezone: America/Detroit
+excerpt_separator: "<!-- more -->"
