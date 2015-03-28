@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Writing the docs will happen, apparently"
+summary: So I might have offered to speak at my first conference since university...
 date: 2015-03-28
 ---
 
