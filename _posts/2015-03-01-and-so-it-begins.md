@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "And so it begins"
+summary: Why I'm doing this github blog thing in the first place...
 date: 2015-03-01
 ---
 
