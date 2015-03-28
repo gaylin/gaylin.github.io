@@ -42,8 +42,3 @@ ul.posts li {
     list-style: none;
     margin-top: 10px;
 }
-p.post-summary {
-    font-size: .75em;
-    line-height: .75em;
-    margin: 3px 0 3px 0;
-}
