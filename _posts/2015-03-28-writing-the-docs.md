@@ -2,6 +2,7 @@
 layout: post
 title: "Writing the docs will happen, apparently"
 date: 2015-03-28
+excerpt: Late-night bouts of insomnia can lead to dangerous promises.
 ---
 
 <img src="/img/kungfu-panda-tigress-baby.gif" alt="Tigress from Kung Fu Panda, as a baby martial artist" style="float:right;PADDING-LEFT: 10px;PADDING-BOTTOM: 10px">
