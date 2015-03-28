@@ -1,9 +1,9 @@
 # Site configuration stuff
-
 name: Graphological Legerdemain
-timezone: America/Detroit
 
-# Stuff that makes Jekyll behave like I want
-
+# Conversion details
 markdown: redcarpet
+
+# Output details
 permalink: /blog/:year/:month/:day/:title
+timezone: America/Detroit
