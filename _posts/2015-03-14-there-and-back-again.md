@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Because Mr. Eco was right"
+summary: Why I really need to slow down and take my time learning...
 date: 2015-03-14
 ---
 
