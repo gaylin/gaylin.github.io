@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Channeling Princess Leia"
+summary: Why I'm taking the time to go to "code" school in my free time...
 date: 2015-03-08
 ---
 
