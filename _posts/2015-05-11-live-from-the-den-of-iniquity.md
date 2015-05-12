@@ -5,7 +5,7 @@ summary: I'm so meta I'm working remotely remote from IBM Edge 2015...
 date: 2015-05-11
 ---
 
-For all my sassy brash and bravado, I'm a pathetic sop when it comes to my anniversary. I leave these little heart-shaped post it notes around the house describing all the things I love about being married to MrMr. He swears it's adorable. (And he still keeps the old notes, so he can't be fibbing too hard on that.) Understandably then, the idea of separated from MrMr on my anniversary was, shall we say, a bit distasteful. Doable, but less than ideal.
+For all my sassy brash and bravado, I'm a pathetic sop when it comes to my anniversary. I leave these little heart-shaped post it notes around the house describing all the things I love about being married to MrMr. He swears it's adorable. (And he still keeps the old notes, so he can't be fibbing too hard on that.) Understandably then, the idea of being separated from MrMr on my anniversary was, shall we say, a bit distasteful. Doable, but less than ideal.
 
 You see, MrMr's company decided it might be a good idea to send him on a company business trip this week. It also happens to be the week of our wedding anniversary. If it were a separation of just a few days, I suppose, that wouldn't be a big deal. We'd simply wait until the weekend to celebrate, have a grand time doing what married folk do on their anniversary, and poof. Another year pleasantly surprised that the other of us stuck around for so long given how hard we both think it is to live with our selves.
 
