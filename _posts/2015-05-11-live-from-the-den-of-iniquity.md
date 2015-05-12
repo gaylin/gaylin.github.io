@@ -17,7 +17,7 @@ I do get to see MrMr every night, but we don't get to see each other during the 
 
 In fact, this is my view most of the day this week:
 
-![My view from The Venetian hotel](/img/clarabelle-hotel-room.png)
+<img src="/img/clarabelle-hotel-room.png" alt="My view from The Venetian hotel" width="600">
 
 But tomorrow we'll celebrate spending more than half of our lives living together, supporting each other, and generally being sappy old married folk together, even if it is amidst the noise and bustle and heat of this "den of iniquity" as my mother once called it
 
