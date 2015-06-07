@@ -11,7 +11,7 @@ Consistent blogging has never been a problem for me, until now apparently. This 
 
 Oh, but wait there's more!
 
-<a href="https://www.flickr.com/photos/gaylin/18568735455" title="Keep Portland Weird by iasmindecordoba, on Flickr"><img src="https://c1.staticflickr.com/1/543/18568735455_6c3bc48187_z.jpg" width="300" alt="Keep Portland Weird"></a>After narrowly escaping hypothermia (twice), I wisely moved on to more comfortable climes in lovely downtown Portland, promptly did the tourist thing by walking the craft fair, visiting the Keep Portland Weird sign[5], avoiding Voodoo Donuts[6], and falling face-first into Book Nerd Mecca(TM)[7].
+<a href="https://www.flickr.com/photos/gaylin/18568735455" title="Keep Portland Weird by iasmindecordoba, on Flickr"><img src="https://c1.staticflickr.com/1/543/18568735455_6c3bc48187_z.jpg" width="300" alt="Keep Portland Weird" style="float:right;PADDING-LEFT:10px;PADDING-BOTTOM:10px"></a>After narrowly escaping hypothermia (twice), I wisely moved on to more comfortable climes in lovely downtown Portland, promptly did the tourist thing by walking the craft fair, visiting the Keep Portland Weird sign[5], avoiding Voodoo Donuts[6], and falling face-first into Book Nerd Mecca(TM)[7].
 
 Still more you say? Why yes there is!
 
