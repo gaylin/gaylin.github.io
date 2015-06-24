@@ -17,7 +17,7 @@ Over the many years of the snowfall call, subtle changes occurred in our convers
 
 Then one snowfall she didn't known why I had called or why it was important. On Christmas Day year before last, mom hadn't known who I was.
 
-<img src="/img/mom.png" alt="a picture of my mom" width="320" height="213" style="float:right;PADDING-LEFT: 10px;PADDING-BOTTOM: 10px">My mother's funeral was last week.
+<img src="/img/mom.png" alt="a picture of my mom" height="200" style="float:right;PADDING-LEFT: 10px;PADDING-BOTTOM: 10px">My mother's funeral was last week.
 
 As I return from settling her estate after the funeral and launch myself immediately into work, I realize that I have yet to truly grieve for this loss I've experienced. I've been running from one thing to the next, dealing with this crisis, solving that problem, and general making sure that everyone has been taken care of. At some point, I'll need to take care of me. Likely not until after I return home from this business trip I'm on, though.
 
