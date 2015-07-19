@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "At my age"
-summary: Seriously, wtf people
+summary: Seriously, wtf people...
 date: 2015-07-19
 ---
 
