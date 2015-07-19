@@ -13,7 +13,7 @@ This bullshit of "well, you know you're of this age" doesn't sit well with me. N
 
 At my age. Feh.
 
-I'll tell you what I can start at my age. I can be an erotic fiction author. I can be a gourmet chef. I can be an illuminator. I can be a seamstress. I can learn the major Shaolin weapon forms. I can drive a race car. I can do 100 sit-ups every day for 100 days. I can do so many of things AND MORE because I've done all those things. At my age.
+I'll tell you what I can start at my age. I can be an erotic fiction author. I can be a gourmet chef. I can be an illuminator. I can be a seamstress. I can learn the major Shaolin weapon forms. I can drive a race car. I can do 100 sit-ups every day for 100 days. I can do so many things AND MORE because I've done all those things. At my age.
 
 I can do anything. My age shouldn't matter. What should matter is that I'm happy. And I am. Try it some time. You'll live longer.
 
