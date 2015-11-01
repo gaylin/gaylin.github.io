@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "More Write the Docs progress"
-summary: So I put my upoming talk notes in their own repo...
+summary: So I put my upcoming talk notes in their own repo...
 date: 2015-04-21
 ---
 
