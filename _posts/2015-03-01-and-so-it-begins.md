@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "And so it begins"
-summary: Why I'm doing this github blog thing in the first place...
-date: 2015-03-01
+excerpt: "Why I'm doing this github blog thing in the first place..."
+tags: [hello]
 ---
 
-I'm not old. I certainly don't feel it. But the simple fact is that the majority of my cow-orkers[1] were born after MrMr[2] and I tied the knot. I try not to point it out but I'm at that age where I can't help but think "Oh for fuck's sake. What do you mean you don't know who \<insert 80s band name\> is?". I've been in this career path for longer.
+I'm not old. I certainly don't feel it. But the simple fact is that the majority of my cow-orkers[^1] were born after MrMr[^2] and I tied the knot. I try not to point it out but I'm at that age where I can't help but think "Oh for fuck's sake. What do you mean you don't know who \<insert 80s band name\> is?". I've been in this career path for longer.
 
 So, per my "Hello World" commit on the home page (at least until I rip that puppy off there for something more festive and beeyooteous), I'm doing this because:
 
@@ -19,5 +19,5 @@ Forgive my mistakes, my friends. And my polluted change histories, reversions, p
 
 Yet.
 
-- [1] It's a holdover from back in the mainframe days, folks. I can't help myself.
-- [2] Names have been obfuscated to protect the innocent. Or not embarass him too much.
+[^1]: It's a holdover from back in the mainframe days, folks. I can't help myself.
+[^2]: Names have been obfuscated to protect the innocent. Or not embarrass him too much.
