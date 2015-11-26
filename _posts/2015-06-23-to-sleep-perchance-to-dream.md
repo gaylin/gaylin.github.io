@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "To sleep, perchance to dream"
-summary: With apologies to The Bard...
-date: 2015-06-23
+excerpt: "With apologies to The Bard..."
+tags: [death]
 ---
 
 My mother and my step-father moved to Texas as I left high school. I dutifully called them on every holiday, but there was one call I would make every year that was more special. From the time I entered university, I regularly called my mom on the first day I watched the snow fly.
@@ -17,10 +17,10 @@ Over the many years of the snowfall call, subtle changes occurred in our convers
 
 Then one snowfall she didn't known why I had called or why it was important. On Christmas Day year before last, mom hadn't known who I was.
 
-<img src="/img/mom.png" alt="a picture of my mom" height="200" style="float:right;PADDING-LEFT: 10px;PADDING-BOTTOM: 10px">My mother's funeral was last week.
+<img src="/images/mom.png" alt="a picture of my mom" height="200" style="float:right;PADDING-LEFT: 10px;PADDING-BOTTOM: 10px">My mother's funeral was last week.
 
 As I return from settling her estate after the funeral and launch myself immediately into work, I realize that I have yet to truly grieve for this loss I've experienced. I've been running from one thing to the next, dealing with this crisis, solving that problem, and general making sure that everyone has been taken care of. At some point, I'll need to take care of me. Likely not until after I return home from this business trip I'm on, though.
 
-Until then, my dreams will be filled with visions of slowly falling flakes, puffy and white, that come with that first rush of true cold for the season. I can feel the cold now, even in the heat of summer. 
+Until then, my dreams will be filled with visions of slowly falling flakes, puffy and white, that come with that first rush of true cold for the season. I can feel the cold now, even in the heat of summer.
 
 Goodbye mom. I love you. I miss you.
