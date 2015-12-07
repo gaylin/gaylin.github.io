@@ -5,17 +5,18 @@ excerpt: "If you really want to do it right, you can't just say no..."
 tags: [learning, leadership]
 ---
 
-After having worked for my company as the sole writer and arbiter of all things documentation, I find myself in a unique position of having to explain myself. A lot. Like...a lot a lot.
+After having worked for my company as the sole writer and arbiter of all things documentation for two and a half years, I find myself in a unique position of having to explain myself. A lot. Like...a lot a lot.
 
-<img src="/images/teenage-mutant-ninja-turtles.gif" alt="animated teenage mutant ninja turtles high five gif" style="float:left;PADDING-RIGHT: 10px;PADDING-BOTTOM: 10px" width="300"> I've recently taken on a leadership role for my team of writers at work. I specifically recommended the hiring of these people because they were smart. But more importantly I recognized in their interviews kindred spirits in their ability to seek out chunks of technically complex information from disparate sources and weave them together with little understanding of what they talked about save for the general sense of "I know this is roughly right, even though I don't understand it."[^1]
+<img src="/images/teenage-mutant-ninja-turtles.gif" alt="animated teenage mutant ninja turtles high five gif" style="float:left;PADDING-RIGHT: 10px;PADDING-BOTTOM: 10px" width="300"> I've recently taken on a leadership role for my team of writers at work. I specifically recommended the hiring of these people because they were smart. But more to the point, I recognized in their interviews that they were kindred spirits in their ability to seek out chunks of technically complex information from disparate sources and weave the pieces together, usually with little understanding of why that pattern was correct save for the general sense of "I know this is roughly right, even though I don't understand it."[^1]
 
-However, therein lies one of the biggest problems with having smart people working with you: you often have to go into great detail about someone can't do something the way they're suggesting.
+Except when it isn't.
+
+Herein lies one of the biggest problems with having smart people working with you: you often have to go into great detail about someone can't do something the way they're suggesting.
+
 
 Rarely, if ever, can the answer be as simple as "No." It comes off as abrupt, unhelpful, dictatorial, or a whole host of other things that, in general, frowned upon from people in managerial positions. It also doesn't help people learn.
 
 I'm not suggesting here that there aren't times when "No" isn't wholly appropriate as a response. But for a growing team, the key to success is usually being able to answer "No" and follow it immediately with "Here's why" even if the why is short.[^2]
-
-The problem I run into more often with now is that my writers weave together information that they've found, scrounged, guessed at successfully (or not), and otherwise managed to wheedle out of even the most reluctant developer. Data spelunking and interrogation if you will. Usually they've done a great job with sketchy resources and I'm inordinately proud of what they've ferreted out.
 
 <img src="/images/maleficent-no-fairies.gif" alt="animated Maleficent movie gif" style="float:right;PADDING-LEFT: 10px;PADDING-BOTTOM: 10px" width="300"> Except then there are those situations where what they've woven together isn't...quite...right. It's close, but not quite. And there's no easy and quick way to say why. I am, in essence, going with my gut too because I don't completely understand the tech either.[^3] But saying "That's not going to work because I said so" does no one any good. No one learns, everyone gets frustrated, and poof, you've stifled pretty much every bit of ninja level creativity and coolio problem solving you hired your team members for in the first place.
 
