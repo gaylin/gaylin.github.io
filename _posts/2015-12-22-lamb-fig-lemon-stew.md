@@ -34,6 +34,7 @@ I haven't come close to finishing this recipe yet, so check out the [ingredients
 
 #### Brown the meat and set it aside.
 <img src="/images/lamb-stew-cut-meat.jpg" alt="fresh lamb stew meat cut into 1 inch chunks" style="float:right;PADDING-LEFT: 10px;PADDING-BOTTOM: 10px" width="300">
+
 1. Sprinkle the lamb chunks with salt and pepper to taste.
 1. In a large, heavy pot, heat the oil over medium-high heat until it shimmers lightly.
 1. Working in small batches, brown the lamb chunks, adding more oil as necessary. Each batch should take about 5 minutes to brown on all sides.
