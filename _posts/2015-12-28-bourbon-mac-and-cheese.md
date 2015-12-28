@@ -85,6 +85,6 @@ Cook the dried pasta in a large pot until al dente, then drain it and set it asi
 
 [^1]: Of course, there's rarely a recipe I read that survives in its original form when I decide to make it. So in going back to write this up so late after I originally created it, I honestly have no idea which recipe I started with. Everything looks vaguely familiar and I have a browser history of visited pages to fall back on but no one recipe sticks out in my mind as "the one that started this all."
 
-[^2]: In general, when cooking with booze I suggest you choose a one that you genuinely enjoy drinking. Don't cook with bourbon you're not willing to drink.
+[^2]: In general, when cooking with booze I suggest you choose one that you genuinely enjoy drinking. Don't cook with bourbon you're not willing to drink.
 
 [^3]:  I'm also lucky enough to have access to <a href="https://www.facebook.com/MOTOR-CITY-GAS-Whiskey-219968168176661/">Motor City Gas</a>, a distillery very local to me that produces some excellent quality booze. I plan to try their bourbon the next time I have a chance to make this recipe.
