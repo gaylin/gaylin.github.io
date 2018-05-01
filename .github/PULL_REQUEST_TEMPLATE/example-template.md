@@ -1,1 +1,1 @@
-Template testing
+THIS IS AN ALTERNATE TEMPLATE
