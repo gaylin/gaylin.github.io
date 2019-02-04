@@ -1,8 +1,9 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+about: Bacon ipsum dolor amet short ribs salami ball tip, buffalo venison kielbasa capicola pastrami meatloaf shankle pork belly pork chop meatball swine burgdoggen. Pork loin filet mignon swine ribeye chuck meatball ham short loin. Capicola pastrami flank swine. Boudin shoulder venison prosciutto tri-tip, short ribs t-bone landjaeger cow. Pig bacon biltong shoulder, tri-tip pastrami landjaeger ribeye fatback picanha boudin alcatra chicken. [bacon](https://baconipsum.com/?paras=1&type=all-meat&start-with-lorem=1).
+
+title: 'Point out a bug'
+labels: 'bug'
 assignees: ''
 
 ---
