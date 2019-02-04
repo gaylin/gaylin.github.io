@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: 'Point out a bug'
+name: "\U0001F41B Report a bug"
+about: "Point out a bug"
 title: ''
 labels: 'bug'
 assignees: ''
